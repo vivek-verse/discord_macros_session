@@ -1,3 +1,4 @@
+use function::*;
 fn main() {
-    println!("Hello, world!");
+    log_info!(2012 - 10 - 12, 1993 - 10 - 12);
 }
