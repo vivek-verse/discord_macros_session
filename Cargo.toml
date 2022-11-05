@@ -1,0 +1,3 @@
+[workspace]
+
+members = ["declarative", "function", "derive", "attribute"]
